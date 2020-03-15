@@ -1,2 +1,2 @@
-echo "code update" > /tmp/report
+echo "code update2" > /tmp/report
 
