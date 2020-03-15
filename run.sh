@@ -1,1 +1,2 @@
-echo "build trigger"
+echo "code update" > /tmp/report
+
